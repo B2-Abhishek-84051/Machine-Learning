@@ -1,0 +1,14 @@
+1. Consider each of following datasets and do below operations.
+i) Read the dataset.
+ii) Display first 5 and last 5 records. 
+iii) Display info and describe the dataset.
+iv) Find out null values.
+v) Plot Various graphs. e.g. barchart, scatterplot, histogram, lineplot, pairplot
+
+Datasets:
+
+i) ToyotaCorolla.csv
+ii) Engine.csv
+iii) delivery_time.csv
+iv) SAT-GPA.csv
+v) TvMarketing.csv
